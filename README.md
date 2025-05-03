@@ -35,6 +35,6 @@
 
 While this repository doesn't contain the source code, you can:
 
-1. Suggest improvements via [Issues]()
+1. Suggest improvements via Issues
 2. Report documentation errors
 3. Share with your network
