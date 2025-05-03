@@ -1,6 +1,6 @@
 # Git-Mastery-Hub
 
-[![Live Demo](https://gitmasteryhub.netlify.app)
+[Live Demo](https://gitmasteryhub.netlify.app)
 
 **The Ultimate Git Documentation** - A beautifully organized reference for all things Git, built with Starlight (Astro).
 
@@ -15,7 +15,7 @@
 
 👉 **[Visit Git Mastery Hub](https://gitmasteryhub.netlify.app)**
 
-[![Git Mastery Hub Screenshot](https://ibb.co/jvVHJtn1)](https://gitmasteryhub.netlify.app)
+![Git Mastery Hub Screenshot](https://i.ibb.co/mCvSNpfM/Screenshot-5.png)
 
 ## 📚 What You'll Find
 
